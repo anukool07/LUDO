@@ -1,0 +1,389 @@
+body{
+	background: rgb(193, 186, 184);
+
+}
+
+.table{
+	margin-left: 114px;
+}
+
+.storeA{
+	font-size: 20px;
+	border: 2px solid white ;
+	width: 150px;
+	height: 100px;
+	text-align: center;
+	padding-top: 20px;
+	margin-top: 20px;
+	margin-left: 150px;
+	float: left;
+
+}
+
+.storeB{
+	font-size: 20px;
+	border: 2px solid white ;
+	width: 150px;
+	height: 100px;
+	text-align: center;
+	padding-top: 20px;
+	margin-top: 268px;
+	margin-left: 508px;
+	float: right;
+	position: absolute;
+
+}
+
+.row11{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 5px;
+	background: rgb(229, 56, 29);
+}
+
+.row12{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 67px;
+}
+
+.row13{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 129px;
+}
+
+.row14{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 191px;
+}
+
+.row15{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 20px;
+	margin-left:253px;
+}
+
+.row16{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 315px;
+}
+
+.row17{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 377px;
+}
+
+.row18{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 439px;
+}
+
+.row21{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 64px;
+	margin-left: 5px;
+	background: rgb(232, 125, 113);
+}
+
+.row28{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 64px;
+	margin-left: 439px;
+}
+
+.row31{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 108px;
+	margin-left: 5px;
+}
+
+.row38{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 108px;
+	margin-left: 439px;
+}
+
+.row41{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 152px;
+	margin-left: 5px;
+}
+
+.row48{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 152px;
+	margin-left: 439px;
+}
+
+.row51{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 196px;
+	margin-left: 5px;
+}
+
+.row58{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 196px;
+	margin-left: 439px;
+}
+
+.row61{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 240px;
+	margin-left: 5px;
+}
+
+.row68{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 240px;
+	margin-left: 439px;
+}
+
+.row71{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 284px;
+	margin-left: 5px;
+}
+
+.row78{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 284px;
+	margin-left: 439px;
+	background: rgb(127, 167, 232);
+}
+
+.row81{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 328px;
+	margin-left: 5px;
+}
+
+.row82{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 328px;
+	margin-left: 67px;
+}
+
+.row83{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 328px;
+	margin-left: 129px;
+}
+
+.row84{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 328px;
+	margin-left: 191px;
+}
+
+.row85{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 328px;
+	margin-left:253px;
+}
+
+.row86{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 328px;
+	margin-left: 315px;
+}
+
+.row87{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 328px;
+	margin-left: 377px;
+}
+
+.row88{
+	border: 2px solid white ;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 328px;
+	margin-left: 439px;
+	background: rgb(50, 119, 229);
+}
+
+.turn{
+	border: 2px solid white ;
+	width: 150px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 138px;
+	margin-left: 173px;
+	font-size: 15px;
+}
+
+.roll{
+	border: 2px solid white ;
+	width: 150px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 173px;
+	font-size: 15px;
+}
+
+.nber{
+	border: 2px solid white ;
+	width: 150px;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	margin-top: 262px;
+	margin-left: 173px;
+	font-size: 15px;
+	font-family: bold;
+	font-size: 25px;
+}
+
+.row122{
+	margin-top: 20px;
+}
